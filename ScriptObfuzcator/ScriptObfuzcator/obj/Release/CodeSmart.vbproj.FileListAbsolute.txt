@@ -1,0 +1,46 @@
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\bin\Release\CodeSmart.exe.config
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\bin\Release\CodeSmart.exe
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\bin\Release\CodeSmart.pdb
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\bin\Release\CodeSmart.xml
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\bin\Release\AutocompleteMenu-ScintillaNET.pdb
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.vbprojResolveAssemblyReference.cache
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.CircleProgressBar.resources
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.LexerDebugSelector.resources
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Form1.resources
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.AboutFrm.resources
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Obfuzcator.resources
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Options.resources
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Window.resources
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.XylonScanner.resources
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Resources.resources
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.vbproj.GenerateResource.Cache
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.exe
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.xml
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.pdb
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\bin\Release\Xylon Antivir.dll
+C:\Users\Hacker\Documents\Visual Studio 2012\Projects\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Converter.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\bin\Release\CodeSmart.exe.config
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.exe
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.xml
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.pdb
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\bin\Release\CodeSmart.exe
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\bin\Release\CodeSmart.pdb
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\bin\Release\CodeSmart.xml
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\bin\Release\Xylon Antivir.dll
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\bin\Release\AutocompleteMenu-ScintillaNET.pdb
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.vbprojResolveAssemblyReference.cache
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.CircleProgressBar.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.LexerDebugSelector.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Form1.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.AboutFrm.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Converter.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Obfuzcator.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Options.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Window.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.XylonScanner.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.Resources.resources
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.vbproj.GenerateResource.Cache
+E:\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\bin\Release\CodeSmart.exe.config
+E:\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.exe
+E:\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.xml
+E:\Projects\Old\ScriptObfuzcator\ScriptObfuzcator\obj\Release\CodeSmart.pdb

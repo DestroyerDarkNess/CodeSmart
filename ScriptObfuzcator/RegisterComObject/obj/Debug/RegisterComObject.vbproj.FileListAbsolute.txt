@@ -1,0 +1,10 @@
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\RegisterComObject\bin\Debug\RegisterComObject.exe.config
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\RegisterComObject\bin\Debug\RegisterComObject.exe
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\RegisterComObject\bin\Debug\RegisterComObject.pdb
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\RegisterComObject\bin\Debug\RegisterComObject.xml
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\RegisterComObject\obj\Debug\RegisterComObject.Form1.resources
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\RegisterComObject\obj\Debug\RegisterComObject.Resources.resources
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\RegisterComObject\obj\Debug\RegisterComObject.vbproj.GenerateResource.Cache
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\RegisterComObject\obj\Debug\RegisterComObject.exe
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\RegisterComObject\obj\Debug\RegisterComObject.xml
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\RegisterComObject\obj\Debug\RegisterComObject.pdb

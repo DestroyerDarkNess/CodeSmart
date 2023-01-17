@@ -1,0 +1,10 @@
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\VBSDebugger\bin\x86\Debug\VBSDebugger.dll
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\VBSDebugger\bin\x86\Debug\VBSDebugger.pdb
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\VBSDebugger\bin\x86\Debug\VBSDebugger.xml
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\VBSDebugger\bin\x86\Debug\VBSDebugger.tlb
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\VBSDebugger\obj\x86\Debug\VBSDebugger.DebugForm.resources
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\VBSDebugger\obj\x86\Debug\VBSDebugger.Resources.resources
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\VBSDebugger\obj\x86\Debug\VBSDebugger.vbproj.GenerateResource.Cache
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\VBSDebugger\obj\x86\Debug\VBSDebugger.dll
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\VBSDebugger\obj\x86\Debug\VBSDebugger.xml
+C:\Users\Said\documents\visual studio 2012\Projects\ScriptObfuzcator\VBSDebugger\obj\x86\Debug\VBSDebugger.pdb

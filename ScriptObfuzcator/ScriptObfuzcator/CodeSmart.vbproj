@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{525F81D4-8DED-4CFB-B80B-DCA0B2DBBD1F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CodeSmart.My.MyApplication</StartupObject>
+    <RootNamespace>CodeSmart</RootNamespace>
+    <AssemblyName>CodeSmart</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CodeSmart.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CodeSmart.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>png-clipart-xamarin-data-cosmos-db-logo-mobile-app-development-xamarin-data_1_256x256_1_56x56 %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutocompleteMenu-ScintillaNET">
+      <HintPath>..\..\..\..\..\Downloads\vb code\AutoCompleteMenu-ScintillaNET-master\AutocompleteMenu\bin\Release\AutocompleteMenu-ScintillaNET.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\Libs\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\Libs\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>..\..\Anticheat\XylonAntivir-master\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="ScintillaNET">
+      <HintPath>..\..\Libs\ScintillaNET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Xylon Antivir, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\asd\InstallerSetup\bin\Release\Xylon Antivir.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Controls\CircleProgressBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CostomThemes\BoosterTheme.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CostomThemes\KnightTheme.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CostomThemes\LogInTheme.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CostomThemes\MenuStripZ.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CostomThemes\TabVScontrol.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CostomThemes\TreeViewEx.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CostomThemes\VStheme.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CostomThemes\XylosTheme.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CustomRichTextbox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LexerDebugSelector.Designer.vb">
+      <DependentUpon>LexerDebugSelector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LexerDebugSelector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Core\Batch\Debugger.vb" />
+    <Compile Include="Core\COM\COManager.vb" />
+    <Compile Include="Core\ControlResizer.vb" />
+    <Compile Include="Core\Converter\BatConverter.vb" />
+    <Compile Include="Core\Converter\HTMLConverter.vb" />
+    <Compile Include="Core\Converter\JSConverter.vb" />
+    <Compile Include="Core\Converter\VBSConverter.vb" />
+    <Compile Include="Core\Obfuzcations\BatOfuser.vb" />
+    <Compile Include="Core\Obfuzcations\HTMLOfuser.vb" />
+    <Compile Include="Core\Obfuzcations\VbsOfuser.vb" />
+    <Compile Include="Core\Scintilla\ElektroCore.vb" />
+    <Compile Include="Core\Scintilla\LexerWords.vb" />
+    <Compile Include="Core\Scintilla\VbNetRecipe_Dark.vb" />
+    <Compile Include="Core\Scintilla\VbNetRecipe_Light.vb" />
+    <Compile Include="Core\SettingsManager.vb" />
+    <Compile Include="Core\Utils.vb" />
+    <Compile Include="Core\VBS\Debugger.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AboutFrm.Designer.vb">
+      <DependentUpon>AboutFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AboutFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Converter.Designer.vb">
+      <DependentUpon>Converter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Converter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Obfuzcator.Designer.vb">
+      <DependentUpon>Obfuzcator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Obfuzcator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Options.Designer.vb">
+      <DependentUpon>Options.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Options.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Window.Designer.vb">
+      <DependentUpon>Window.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Window.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XylonScanner.Designer.vb">
+      <DependentUpon>XylonScanner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XylonScanner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\CircleProgressBar.resx">
+      <DependentUpon>CircleProgressBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\LexerDebugSelector.resx">
+      <DependentUpon>LexerDebugSelector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AboutFrm.resx">
+      <DependentUpon>AboutFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Converter.resx">
+      <DependentUpon>Converter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Obfuzcator.resx">
+      <DependentUpon>Obfuzcator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Options.resx">
+      <DependentUpon>Options.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Window.resx">
+      <DependentUpon>Window.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XylonScanner.resx">
+      <DependentUpon>XylonScanner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\words.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Xylon Antivir.dll" />
+    <None Include="bin\Release\Guna.UI.dll" />
+    <None Include="bin\Release\ScintillaNET.dll" />
+    <None Include="bin\Release\AutocompleteMenu-ScintillaNET.dll" />
+    <None Include="bin\Release\Mono.Cecil.dll" />
+    <None Include="bin\Release\HtmlAgilityPack.dll" />
+    <Content Include="png-clipart-xamarin-data-cosmos-db-logo-mobile-app-development-xamarin-data_1_256x256.ico" />
+    <Content Include="png-clipart-xamarin-data-cosmos-db-logo-mobile-app-development-xamarin-data_1_256x256_1_56x56 %281%29.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

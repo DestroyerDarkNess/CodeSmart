@@ -1,0 +1,392 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ScriptObfuzcator
+</name>
+</assembly>
+<members>
+<member name="M:ScriptObfuzcator.Core.Scintilla.VbNetRecipe_Light.SetVbNetLightStyle(ScintillaNET.Scintilla)">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Sets a VisualBasic.Net light lexer style on the specified <see cref="N:ScriptObfuzcator.Core.Scintilla"/> editor.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <param name="editor">
+ The source <see cref="N:ScriptObfuzcator.Core.Scintilla"/> editor.
+ </param>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="T:ScriptObfuzcator.DrawHelpers">
+	<summary>
+ LogIn GDI+ Theme
+ Creator: Xertz (HF)
+ Version: 1.4
+ Control Count: 28
+ Date Created: 18/12/2013
+ Date Changed: 07/09/2014
+ UID: 1602992
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ScriptObfuzcator.ElektroKit.ThirdParty.ScintillaNet.Tools.ScintillaNetUtil.#ctor">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Prevents a default instance of the <see cref="T:ScriptObfuzcator.ElektroKit.ThirdParty.ScintillaNet.Tools.ScintillaNetUtil"/> class from being created.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="M:ScriptObfuzcator.ElektroKit.ThirdParty.ScintillaNet.Tools.ScintillaNetUtil.SetVbNetDarkStyle(ScintillaNET.Scintilla)">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Sets a VisualBasic.Net dark lexer style on the specified <see cref="T:ScintillaNET.Scintilla"/> editor.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <param name="editor">
+ The source <see cref="T:ScintillaNET.Scintilla"/> editor.
+ </param>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="M:ScriptObfuzcator.ElektroKit.ThirdParty.ScintillaNet.Tools.ScintillaNetUtil.SetVbNetLightStyle(ScintillaNET.Scintilla)">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ Sets a VisualBasic.Net light lexer style on the specified <see cref="T:ScintillaNET.Scintilla"/> editor.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+ <param name="editor">
+ The source <see cref="T:ScintillaNET.Scintilla"/> editor.
+ </param>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="E:ScriptObfuzcator.TreeViewEx.EditButtonClicked">
+	<summary>
+ Raised when the right image is clicked.
+ </summary>
+</member><member name="M:ScriptObfuzcator.TreeViewEx.OnEditButtonClicked">
+	<summary>
+ Raises the <see cref="E:ScriptObfuzcator.TreeViewEx.EditButtonClicked"/> events.
+ </summary>
+</member><member name="F:ScriptObfuzcator.Core.VBS.Debugger.MyProcess">
+	<summary>
+ The Process Object.
+ </summary> '.CreateNoWindow = True,  .RedirectStandardError = True,  .UseShellExecute = False,
+
+</member><member name="F:ScriptObfuzcator.Core.VBS.Debugger.Find">
+	<summary>
+ Indicates the string to search.
+ </summary>
+</member><member name="F:ScriptObfuzcator.Core.VBS.Debugger.ResultFound">
+	<summary>
+ Determines whether a result is found.
+ </summary>
+</member><member name="T:ScriptObfuzcator.DrawHelpers1">
+	<summary>
+ Visual Studio GDI+ Theme
+ Creator: Xertz (HF)
+ Version: 1.1
+ Control Count: 11
+ Date Created: 11/5/2014
+ Date Changed: 11/6/2014
+ UID: 1602992
+ Email: xertzstudio@gmail.com
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:ScriptObfuzcator.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ScriptObfuzcator.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ScriptObfuzcator.My.Resources.Resources.drad">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ScriptObfuzcator.My.Resources.Resources.words">
+	<summary>
+  Looks up a localized string similar to 2
+1080
+&amp;c
+10-point
+10th
+11-point
+12-point
+16-point
+18-point
+1st
+2,4,5-t
+2,4-d
+20-point
+2D
+2nd
+30-30
+3D
+3-D
+3M
+3rd
+48-point
+4-D
+4GL
+4H
+4th
+5-point
+5-T
+5th
+6-point
+6th
+7-point
+7th
+8-point
+8th
+9-point
+9th
+a
+a'
+a-
+A&amp;M
+A&amp;P
+A.
+A.A.A.
+A.B.
+A.B.A.
+A.C.
+A.D.
+A.D.C.
+A.F.
+A.F.A.M.
+A.G.
+A.H.
+A.I.
+A.I.A.
+A.I.D.
+A.L.
+A.L.P.
+A.M.
+A.M.A.
+A.M.D.G.
+A.N.
+a.p.
+a.r.
+A.R.C.S.
+A.U.
+A.U.C.
+A.V.
+a.w.
+A.W.O.L.
+A/C
+A/F
+A/O
+A/P
+A/V
+A1
+A-1
+A4
+A5
+AA
+AAA
+AAAA
+AAAAAA
+AAAL
+AAAS
+Aaberg
+Aachen
+AAE
+AAEE
+AAF
+AAG
+aah
+aahed
+aahing
+aahs
+AAII
+aal
+ [rest of string was truncated]";.
+</summary>
+</member><member name="T:ScriptObfuzcator.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:ScriptObfuzcator.ControlResizer.Control">
+	<summary>
+ Gets the associated <see cref="P:ScriptObfuzcator.ControlResizer.Control"/> used to perform resizable operations.
+ </summary>
+	<value>The control.</value>
+</member><member name="F:ScriptObfuzcator.ControlResizer._ctrl">
+	<summary>
+ The associated <see cref="P:ScriptObfuzcator.ControlResizer.Control"/> used to perform draggable operations.
+ </summary>
+</member><member name="P:ScriptObfuzcator.ControlResizer.PixelMargin">
+	<summary>
+ Gets or sets the pixel margin required to activate resize indicators.
+ </summary>
+	<value>The pixel margin required activate resize indicators.</value>
+</member><member name="P:ScriptObfuzcator.ControlResizer.Enabled">
+	<summary>
+ Gets or sets a value indicating whether resize is enabled on the associated <see cref="P:ScriptObfuzcator.ControlResizer.Control"/>.
+ </summary>
+	<value><c>true</c> if resize is enabled; otherwise, <c>false</c>.</value>
+</member><member name="P:ScriptObfuzcator.ControlResizer.Empty">
+	<summary>
+ Represents a <see cref="T:ControlResizer"/> instance that is <c>Nothing</c>.
+ </summary>
+	<value><c>Nothing</c></value>
+</member><member name="P:ScriptObfuzcator.ControlResizer.IsLeftMouseButtonDown">
+	<summary>
+ Gets or sets a value indicating whether the left mouse button is down.
+ </summary>
+	<value><c>true</c> if left mouse button is down; otherwise, <c>false</c>.</value>
+</member><member name="P:ScriptObfuzcator.ControlResizer.ActiveEdge">
+	<summary>
+ Gets or sets the current active edge.
+ </summary>
+	<value>The current active edge.</value>
+</member><member name="P:ScriptObfuzcator.ControlResizer.oldCursor">
+	<summary>
+ Gets or sets the old control's cursor to restore it after resizing.
+ </summary>
+	<value>The old control's cursor.</value>
+</member><member name="F:ScriptObfuzcator.ControlResizer.Edges.None">
+	<summary>
+ Any edge.
+ </summary>
+</member><member name="F:ScriptObfuzcator.ControlResizer.Edges.Left">
+	<summary>
+ Left edge.
+ </summary>
+</member><member name="F:ScriptObfuzcator.ControlResizer.Edges.Right">
+	<summary>
+ Right edge.
+ </summary>
+</member><member name="F:ScriptObfuzcator.ControlResizer.Edges.Top">
+	<summary>
+ Top edge.
+ </summary>
+</member><member name="F:ScriptObfuzcator.ControlResizer.Edges.Bottom">
+	<summary>
+ Bottom edge.
+ </summary>
+</member><member name="F:ScriptObfuzcator.ControlResizer.Edges.TopLeft">
+	<summary>
+ Top-Left edge.
+ </summary>
+</member><member name="F:ScriptObfuzcator.ControlResizer.Edges.TopRight">
+	<summary>
+ Top-Right edge.
+ </summary>
+</member><member name="F:ScriptObfuzcator.ControlResizer.Edges.BottomLeft">
+	<summary>
+ Bottom-Left edge.
+ </summary>
+</member><member name="F:ScriptObfuzcator.ControlResizer.Edges.BottomRight">
+	<summary>
+ Bottom-Right edge.
+ </summary>
+</member><member name="T:ScriptObfuzcator.ControlResizer.Edges">
+	<summary>
+ Contains the Edges.
+ </summary>
+</member><member name="M:ScriptObfuzcator.ControlResizer.#ctor">
+	<summary>
+ Prevents a default instance of the <see cref="T:ScriptObfuzcator.ControlResizer"/> class from being created.
+ </summary>
+</member><member name="M:ScriptObfuzcator.ControlResizer.#ctor(System.Windows.Forms.Control)">
+	<summary>
+ Initializes a new instance of the <see cref="T:ScriptObfuzcator.ControlResizer"/> class.
+ </summary>
+	<param name="ctrl">The control.</param>
+</member><member name="M:ScriptObfuzcator.ControlResizer.ctrl_MouseEnter(System.Object,System.EventArgs)">
+	<summary>
+ Handles the MouseEnter event of the control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+</member><member name="M:ScriptObfuzcator.ControlResizer.ctrl_MouseLeave(System.Object,System.EventArgs)">
+	<summary>
+ Handles the MouseLeave event of the control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+</member><member name="M:ScriptObfuzcator.ControlResizer.ctrl_MouseDown(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Handles the MouseDown event of the control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.Windows.Forms.MouseEventArgs"/> instance containing the event data.</param>
+</member><member name="M:ScriptObfuzcator.ControlResizer.ctrl_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary> 
+ Handles the MouseUp event of the control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.Windows.Forms.MouseEventArgs"/> instance containing the event data.</param>
+</member><member name="M:ScriptObfuzcator.ControlResizer.ctrl_MouseMove(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Handles the MouseMove event of the control.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.Windows.Forms.MouseEventArgs"/> instance containing the event data.</param>
+</member><member name="M:ScriptObfuzcator.ControlResizer.SetActiveEdge(System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Sets the active edge.
+ </summary>
+	<param name="e">The <see cref="T:System.Windows.Forms.MouseEventArgs"/> instance containing the event data.</param>
+</member><member name="M:ScriptObfuzcator.ControlResizer.SetSizeCursor">
+	<summary>
+ Sets the size cursor.
+ </summary>
+</member><member name="M:ScriptObfuzcator.ControlResizer.SetControlBounds(System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Sets the control bounds.
+ </summary>
+	<param name="e">The <see cref="T:System.Windows.Forms.MouseEventArgs"/> instance containing the event data.</param>
+</member><member name="M:ScriptObfuzcator.ControlResizer.GetHashCode">
+	<summary>
+ Serves as a hash function for a particular type.
+ </summary>
+</member><member name="M:ScriptObfuzcator.ControlResizer.GetType">
+	<summary>
+ Gets the System.Type of the current instance.
+ </summary>
+	<returns>The exact runtime type of the current instance.</returns>
+</member><member name="M:ScriptObfuzcator.ControlResizer.Equals">
+	<summary>
+ Determines whether the specified System.Object instances are considered equal.
+ </summary>
+</member><member name="M:ScriptObfuzcator.ControlResizer.ReferenceEquals">
+	<summary>
+ Determines whether the specified System.Object instances are the same instance.
+ </summary>
+</member><member name="M:ScriptObfuzcator.ControlResizer.ToString">
+	<summary>
+ Returns a String that represents the current object.
+ </summary>
+</member><member name="F:ScriptObfuzcator.ControlResizer.IsDisposed">
+	<summary>
+ To detect redundant calls when disposing.
+ </summary>
+</member><member name="M:ScriptObfuzcator.ControlResizer.DisposedCheck">
+	<summary>
+ Prevent calls to methods after disposing.
+ </summary>
+	<exception cref="T:System.ObjectDisposedException"></exception>
+</member><member name="M:ScriptObfuzcator.ControlResizer.Dispose">
+	<summary>
+ Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+ </summary>
+</member><member name="M:ScriptObfuzcator.ControlResizer.Dispose(System.Boolean)">
+	<summary>
+ Releases unmanaged and - optionally - managed resources.
+ </summary>
+	<param name="IsDisposing">
+		<c>true</c> to release both managed and unmanaged resources; 
+ <c>false</c> to release only unmanaged resources.
+ </param>
+</member><member name="T:ScriptObfuzcator.ControlResizer">
+	<summary>
+ Enable or disable resize at runtime on a <see cref="T:System.Windows.Forms.Control"/>.
+ </summary>
+</member>
+</members>
+</doc>
